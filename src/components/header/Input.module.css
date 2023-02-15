@@ -1,0 +1,11 @@
+.input_style input{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 0.25rem 0.5rem; 
+    border: 1px solid black;
+}
+.input_style input:hover{
+    box-shadow: 0 0 6px rgb(61, 61, 170);
+    
+}
+

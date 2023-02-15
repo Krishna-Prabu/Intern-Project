@@ -1,0 +1,38 @@
+.date_box{
+    display: flex;
+    flex-direction: column;  
+}
+.date_box label{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+
+}
+.date_box button:hover{
+    background-color: rgb(203, 218, 223);
+    color:rgb(144, 129, 243);
+}
+.date_box_button{
+    display: block;
+    margin-top: 1rem;
+}
+.date_box button{
+    
+    background-color: transparent;
+    color: rgb(91, 182, 224);
+    border: 1px solid rgb(47, 45, 45);
+    font-size: 15px;
+    padding: 0.35rem 0.75rem;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+.date_box input:hover{
+    background-color: transparent;
+    cursor: pointer;
+    box-shadow: 0 0 4px rgb(120, 120, 242);
+}
+.date_box input{
+    background-color: azure;
+    font-size: 17px; 
+    color: rgb(188, 188, 240);   
+}

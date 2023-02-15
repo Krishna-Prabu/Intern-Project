@@ -1,0 +1,12 @@
+.page_box p{
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.page_box_select{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 2px solid black;
+    color: rgb(54, 39, 75);
+}
